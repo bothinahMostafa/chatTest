@@ -24,7 +24,7 @@ public class SingleTon {
         c3.secondClassFirstMethod();
         //bothinah end
         //mohamed start
-
+System.out.println("goodbye");
         Class1 c5 = new Class1();
         c5.bothinah();
         c5.newMethod();
