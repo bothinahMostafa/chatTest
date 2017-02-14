@@ -19,6 +19,10 @@ public class Class1 {
          public void bothinah(){
              System.out.println("singleton.Class1.bothinah()");
          }
+         
+         public void newMethod(){
+             System.out.println("new method from bothinah");
+         }
     //end of bothinah
     
     //start of mohamed
