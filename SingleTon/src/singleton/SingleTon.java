@@ -14,11 +14,18 @@ public class SingleTon {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         //bothinah start
-        
+            
         //bothinah end
         //mohamed start
+            
+            Class1 c5 = new Class1();
+            c5.bothinah();
+            c5.newMethod();
+            c5.sayHello();
+            c5.test5();
         
         //mohamed end
     }
