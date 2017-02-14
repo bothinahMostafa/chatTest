@@ -12,7 +12,9 @@ package singleton;
 public class Class {
     
     //bothinah start 
-    
+        public void bothinah1(){
+            System.out.println("isa with no conflict");
+        }
     //bothinah end
     
     //mohamed start 
