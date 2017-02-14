@@ -22,6 +22,7 @@ public class SingleTon {
         Class c3 = new Class();
         c3.bothinah1();
         c3.secondClassFirstMethod();
+        System.out.println("jdjdjdjjdjdjdjdj");
         //bothinah end
         //mohamed start
 System.out.println("goodbye");
