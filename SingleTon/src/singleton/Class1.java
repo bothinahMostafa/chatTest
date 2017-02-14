@@ -7,6 +7,7 @@ package singleton;
 
 /**
  *
+<<<<<<< HEAD
  * @author TOSHIBA
  */
 public class Class1 {
@@ -36,4 +37,18 @@ public class Class1 {
     
    
     
+=======
+ * @author Pc
+ */
+public class Class1 {
+    //start of bothinah
+        public void sayHello(){
+            System.err.println("hello bothinah");
+        }
+    //end of bothinah
+    
+    //start of mohamed 
+    
+    //end of mohamed
+>>>>>>> 5b095e48dbab867e2441b7874d29a130e18b0efa
 }
