@@ -15,7 +15,12 @@ public class SingleTon {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        //bothinah start
+        
+        //bothinah end
+        //mohamed start
+        
+        //mohamed end
     }
     
 }
