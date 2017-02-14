@@ -16,6 +16,9 @@ public class Class1 {
          public void sayHello(){
             System.err.println("hello bothinah");
         }
+         public void bothinah(){
+             System.out.println("singleton.Class1.bothinah()");
+         }
     //end of bothinah
     
     //start of mohamed
