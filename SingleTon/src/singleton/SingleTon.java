@@ -16,7 +16,12 @@ public class SingleTon {
      */
     public static void main(String[] args) {
         //bothinah start
-        
+            Class1 c1 =new Class1();
+            c1.bothinah();
+            c1.mohamedali();
+            Class c3=new Class();
+            c3.bothinah1();
+            c3.secondClassFirstMethod();
         //bothinah end
         //mohamed start
         
