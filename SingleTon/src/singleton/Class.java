@@ -18,7 +18,11 @@ public class Class {
     //bothinah end
     
     //mohamed start 
-    
+    private void secondClassFirstMethod()
+    {
+        String s = "a;kdfda";
+        System.out.println(s);
+    }
     //mohamed end
     
 }
